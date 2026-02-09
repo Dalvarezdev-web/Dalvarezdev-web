@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Davi Alvarez! 👋
 
-<!--
-**Dalvarezdev-web/Dalvarezdev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente cursando **Ciência da Computação na Uninter** e focado em me tornar um desenvolvedor Full Stack objetivo.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Estudante focado em fundamentos sólidos e boas práticas.
+- 🛠️ Gosto de assumir responsabilidades e encontrar soluções criativas para problemas complexos.
+- 🎯 Objetivo: Desenvolver aplicações modernas, escaláveis e eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Ferramentas
+- **Linguagens:** JavaScript, Python, HTML5, CSS
+- **Frontend:** React.js
+- **Outros:** Git, GitHub, VS Code
+
+---
+📫 **Como me encontrar:** [(https://www.linkedin.com/in/dalvarezdev-web/)]
